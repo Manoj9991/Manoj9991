@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img size="" align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
